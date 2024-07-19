@@ -6,3 +6,4 @@ Werkzeug
 WTForms
 Gunicorn
 google-generativeai
+python-dotenv
