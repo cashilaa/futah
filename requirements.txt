@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+WTForms
+Gunicorn
+google-generativeai
